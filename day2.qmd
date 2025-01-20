@@ -209,8 +209,8 @@ st_geometry(de) |> plot(add = TRUE, border = "yellow")
 
 ## up- and down-scaling
 
-Up- and downscaling means going from fine to course resolution
-(up), or from course to fine resolution (down). Upscaling is
+Up- and downscaling means going from fine to coarse resolution
+(up), or from coarse to fine resolution (down). Upscaling is
 usually simple as it may simply involve grouping and summarising,
 downscaling is complicated as it may involve statistical modelling,
 sampling, simulation, quantifying and handling uncertainty.
